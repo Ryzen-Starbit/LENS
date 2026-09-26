@@ -6,6 +6,14 @@ Unlike traditional fact-checking tools that require manual searching, LENS opera
 
 ---
 
+## 🎥 Demo
+
+[![LENS Demo](https://img.youtube.com/vi/duZkh45fHrY/maxresdefault.jpg)](https://youtu.be/duZkh45fHrY)
+
+▶️ **[Watch the full demo on YouTube](https://youtu.be/duZkh45fHrY)**
+
+---
+
 ## ✨ Key Features
 
 ### 🔍 Multi-Modal Verification
