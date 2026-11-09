@@ -93,7 +93,7 @@ Ensure the following are installed on your system:
 ### 2. Backend Setup
 Clone the repository and install dependencies:
 ```bash
-git clone https://github.com/YourUsername/LENS.git
+git clone https://github.com/Ryzen-Starbit/LENS.git
 cd LENS
 
 pip install fastapi uvicorn torch torchvision transformers sentence-transformers pandas pytesseract python-multipart
